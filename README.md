@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align='center'>
-<video src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.mp4" autoplay loop></video>
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611038538dadd58fd6c5ed0576e95cb252f79a5d900&rid=giphy.gif&ct=g">
 </div>
 
 <!--
