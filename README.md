@@ -32,9 +32,13 @@
   </div>
 </div>
 
+<br/>
+
 <div>
-https://github-readme-streak-stats.herokuapp.com/?birdman93
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 </div> 
+
+<br/>
 <!--
 **birdman93/birdman93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
