@@ -5,7 +5,7 @@
 <br>
 
 <div>
-  <p>Hi there 👋</p>
+  <p><b>Hi there 👋</b></p>
   <p>🔭 I’m currently working as QA Engineer on creating automated tests (Python).</p>
   <p>🌱 I’m currently learning JS (and want to create React application).</p>
 </div>
