@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://media.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif" height='200px'>
+  <img src="https://media.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif" height='200px' width='200px'>
 </div>
 
 <br/>
