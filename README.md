@@ -1,11 +1,11 @@
 <div align='center'>
-  <p>Hi there 👋</p>
   <img src="https://media.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif" height='200px'>
 </div>
 
 <br>
 
 <div>
+  <p>Hi there 👋</p>
   <p>🔭 I’m currently working as QA Engineer on creating automated tests (Python).</p>
   <p>🌱 I’m currently learning JS (and want to create React application).</p>
 </div>
