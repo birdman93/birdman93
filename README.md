@@ -34,9 +34,7 @@
 
 <br/>
 
-<div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=birdman93&theme=merko)](https://git.io/streak-stats)
-</div> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=birdman93&theme=merko)](https://git.io/streak-stats)
 
 <br/>
 <!--
