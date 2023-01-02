@@ -16,9 +16,10 @@
 </div>
 
 <br/>
+<br/>
 
 <div>
-  <p>Technology stack:</p>
+  <p><b>Technology stack:</b></p>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
@@ -33,8 +34,10 @@
 </div>
 
 <br/>
+<br/>
 
-<p>Stats:</p>
+<p><b>Stats:</b></p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=birdman93&theme=merko)](https://git.io/streak-stats)
 
 <br/>
