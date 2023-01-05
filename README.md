@@ -38,11 +38,13 @@
 
 <p><b>GitHub Stats:</b></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=birdman93&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=birdman93&theme=merko&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdman93&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **birdman93/birdman93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
