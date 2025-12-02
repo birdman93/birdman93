@@ -32,12 +32,6 @@
 <br/>
 <br/>
 
-<p><b>GitHub Stats:</b></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-<br/>
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdman93&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 -->
