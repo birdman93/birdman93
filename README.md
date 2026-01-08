@@ -11,11 +11,11 @@
 <br/>
 
 <div>
-  <p>🔭 I’m currently working as QA Engineer on creating automated tests (Python) and Techlead of team.</p>
+  <p>I’m currently working as QA Engineer on creating automated tests (Python) and Techlead of team.</p>
 </div>
 
 <div>
-  <p> A repository with code examples: https://github.com/birdman-s-templates</p>
+  <p>A repository with code examples: https://github.com/birdman-s-templates</p>
 </div>
 
 <br/>
